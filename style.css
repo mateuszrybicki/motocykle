@@ -8,6 +8,7 @@ body {
     font: 12px/20px Arial, Helvetica, sans-serif;
     color: #D6D6D6;
     background: #191A1B url(images/bg.gif)  repeat-x top;
+	height: 1100px;
 }
 
 h1 {
@@ -119,11 +120,11 @@ a:hover {
 
 #footer {
     clear: both;
-    height: 104px;
-    background: url(images/footer.gif) repeat-x top;
+    height: 50px;
+    background-color: black; 
 }
 
 #footer p {
-    line-height: 40px;
+
     text-align: center;
 }
